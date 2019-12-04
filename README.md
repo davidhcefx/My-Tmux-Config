@@ -2,7 +2,7 @@
 
 ## Features:
 - More intuitive. (eg. + to create pane)
-- System clipboard integration. (Cygwin, Unix with X-Windows)
+- System clipboard integration. (Cygwin, Unix X-Windows)
 - Select with mouse and Ctrl+C to copy.
 
 ## Installation:
