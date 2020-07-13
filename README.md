@@ -1,4 +1,5 @@
 # My-Tmux-Config
+Also on Gist: https://gist.github.com/davidhcefx/c340e3fc2abfb5dd613ddae817401478
 
 ## Features:
 - More intuitive. (eg. `+` to create panes, `Ctrl+C` to copy, `End` to move to end-of-line)
